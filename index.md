@@ -97,18 +97,17 @@
 * Designed and implemented robust frontend architectures that formed the foundation for successful applications.
 * Conducted thorough code reviews, ensuring code quality, consistency, and adherence to best practices.
 * Spearheaded the development of decentralized frontend applications based on the NEAR protocol, contributing to the advancement of blockchain technology.
-* Leveraged my mobile development skills in React Native to create the META1 blockchain wallet, a pivotal project that bridged the world of blockchain and mobile technology.
-* Development of a mobile application for iOS and Android platforms using React Native, NativeBase
-* Creation of a web wallet utilizing React and Redux
-* Backend development for wallets, incorporating Node.js, Express.js, MySQL, ElasticSearch
-* Integration of frontend and backend applications with the BitShares blockchain
+* Leveraged my mobile development skills in **React Native** to create the META1 blockchain wallet for iOS and Android platforms, a pivotal project that bridged the world of blockchain and mobile technology.
+* Creation of a web wallet utilizing **React** and **Redux**
+* Backend development for wallets, incorporating **Node.js**, **Express.js**, **MySQL**, **ElasticSearch**
+* Integration of frontend and backend applications with the **BitShares blockchain**
 ---
 
 **24Slides, Denmark — Lead Frontend Engineer**
 
 *April 2018 - August 2019*
 
-* Spearheaded the development of the 24Slides CRM system using JavaScript, ES6, Babel, Webpack, React, Redux, PHP, Laravel, MySQL, and more.
+* Spearheaded the development of the 24Slides CRM system using **JavaScript**, **ES6**, **Babel**, **Webpack**, **React**, **Redux**, **PHP**, **Laravel**, **MySQL**, and more.
 
 ---
 
@@ -116,7 +115,7 @@
 
 *October 2015 - March 2018*
 
-* Developed frontends for SberBank and its subsidiary products using ES6, Babel, Webpack, React, Redux, Node.js, and more.
+* Developed frontends for SberBank and its subsidiary products using **JavaScript**, **ES6**, **Babel**, **Webpack**, **React**, **Redux**, **Node.js**, and more.
 
 ---
 
@@ -124,7 +123,7 @@
 
 *May 2014 - October 2015*
 
-* Executed a wide range of projects, including Yii2 frameworks, REST APIs using Node.js and Express.
+* Executed a wide range of projects, including **Yii2 framework**, REST APIs using **Node.js** and **Express**.
 
 ---
 
@@ -132,7 +131,7 @@
 
 *November 2013 - May 2014*
 
-* Contributed to various projects using Symfony2 framework.
+* Contributed to various projects using **Symfony2 framework**.
 
 ---
 
@@ -140,7 +139,8 @@
 
 *September 2011 - September 2013*
 
-* Developed a social dating portal using Yii framework.
+* Developed a social dating portal using **Yii framework**.
+* Contributed to various projects using **Drupal**.
 
 ---
 
@@ -148,7 +148,7 @@
 
 *September 2010 - July 2011*
 
-* Contributed to various projects using Yii framework.
+* Contributed to various projects using **Yii framework**.
 
 ---
 
