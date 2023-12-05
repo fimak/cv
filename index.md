@@ -98,14 +98,17 @@
 * Conducted thorough code reviews, ensuring code quality, consistency, and adherence to best practices.
 * Spearheaded the development of decentralized frontend applications based on the NEAR protocol, contributing to the advancement of blockchain technology.
 * Leveraged my mobile development skills in React Native to create the META1 blockchain wallet, a pivotal project that bridged the world of blockchain and mobile technology.
-
+* Development of a mobile application for iOS and Android platforms using React Native, NativeBase
+* Creation of a web wallet utilizing React and Redux
+* Backend development for wallets, incorporating Node.js, Express.js, MySQL, ElasticSearch
+* Integration of frontend and backend applications with the BitShares blockchain
 ---
 
 **24Slides, Denmark — Lead Frontend Engineer**
 
 *April 2018 - August 2019*
 
-* Spearheaded the development of the 24Slides CRM system using ES6, Babel, Webpack, React, Redux, PHP, Laravel, MySQL, and more.
+* Spearheaded the development of the 24Slides CRM system using JavaScript, ES6, Babel, Webpack, React, Redux, PHP, Laravel, MySQL, and more.
 
 ---
 
