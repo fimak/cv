@@ -41,14 +41,14 @@
   * React, Next.js, Redux
   * Vue, Nuxt, Vuex
 * Back-End: 
-  * Node.js
-  * Express
-  * Nest.js
+  * Node.js, Express, Nest.js
 * Mobile: 
   * React Native
+  * NativeBase
 * UI Libraries: 
   * Material UI
   * Bootstrap
+  * Tailwind
 * Data Visualization: 
   * Three.js
   * D3
@@ -62,7 +62,8 @@
   * GraphQL
 * Databases: 
   * MySQL, PostgreSQL
-  * MongoDB, Elastic Search, Redis, Firebase
+  * MongoDB, Elastic Search, Redis
+  * Firebase, Supabase
 * Message Queues: 
   * Apache Kafka
   * RabbitMQ
