@@ -44,7 +44,10 @@
   * Node.js, Express, Nest.js
 * Mobile: 
   * React Native
+  * React Navigation
+  * Reanimated
   * NativeBase
+  * Async Storage
 * UI Libraries: 
   * Material UI
   * Bootstrap
@@ -58,12 +61,12 @@
   * CSS3
   * WebRTC
 * API Development: 
-  * RESTful
-  * GraphQL
+  * RESTful, Axios
+  * GraphQL, Apollo
 * Databases: 
   * MySQL, PostgreSQL
   * MongoDB, Elastic Search, Redis
-  * Firebase, Supabase
+  * Firebase, Supabase, Realm
 * Message Queues: 
   * Apache Kafka
   * RabbitMQ
