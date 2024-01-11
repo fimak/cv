@@ -90,9 +90,15 @@
 
 ### Experience:
 
+**MCM, USA — Software Engineer**
+
+*December 2023 - Current*
+
+---
+
 **Digital Aware, Russia — CTO**
 
-*September 2019 - Current*
+*September 2019 - December 2023*
 
 * Established and led development teams, orchestrating their efforts towards achieving project objectives.
 * Effectively built and nurtured teams tailored to different projects, ensuring a harmonious working environment and fostering collaboration.
