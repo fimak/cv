@@ -90,11 +90,13 @@
 
 ### Experience:
 
-**MCM, USA — Software Engineer**
+[//]: # (**MCM, USA — Software Engineer**)
 
-*December 2023 - Current*
+[//]: # ()
+[//]: # (*December 2023 - Current*)
 
----
+[//]: # ()
+[//]: # (---)
 
 **Digital Aware, Russia — CTO**
 
@@ -110,6 +112,7 @@
 * Creation of a web wallet utilizing **React** and **Redux**
 * Backend development for wallets, incorporating **Node.js**, **Express.js**, **MySQL**, **ElasticSearch**
 * Integration of frontend and backend applications with the **BitShares blockchain**
+
 ---
 
 **24Slides, Denmark — Lead Frontend Engineer**
