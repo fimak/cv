@@ -1,179 +1,189 @@
-# Senior Software Engineer | Solution Architect | Team Lead
-## Aleksandr Ufimtsev
-
-* Telegram: [@aufimtsev](https://t.me/aufimtsev)
-* Email: [fimak@bk.ru]()
-* LinkedIn: [Aleksandr Ufimtsev](https://www.linkedin.com/in/aleksandr-ufimtsev-166a7a58/)
-
-### Objective
-
-    Dedicated and experienced Software Engineer with over 13 years of experience.
-    My approach to software development is not limited to technical mastery. 
-    I thrive in fostering collaborative environments and driving successful outcomes.
-    Seeking a challenging role where I can leverage my skills and experience to make a significant impact.
-
-### Education
-
-    Master's Degree in Computer Science.
-    Omsk State Technical University.
-    Class of 2012.
-
-### Soft Skills
-
-* **Leadership**
-    * *I have a demonstrated track record of leading and inspiring development teams to deliver outstanding results. Whether it's organizing the development process, team building, or effectively communicating with clients.*
-* **Proactivity**
-    * *I take the initiative to get things done, ensuring that projects stay on track and objectives are met. This proactivity extends to identifying opportunities for improvement and innovation in the software development process.*
-* **Responsibility and Reliability**
-    * *Accountability is a cornerstone of my work ethic. I understand that reliability and consistency are vital in software development, and I hold myself responsible for achieving project goals and meeting deadlines.*
-* **Client-Centric Approach**
-    * *I prioritize the importance of availability and accessibility for clients. Whether collaborating with local or remote teams, I maintain a commitment to delivering a seamless and client-focused experience.*
-* **Meticulousness**
-    * *I approach every project with meticulous attention to detail, striving to exceed expectations and guarantee client satisfaction. This dedication to quality is a testament to my commitment to delivering high-quality results.*
-
-### Technical Skills
-
-* Software Design and Architecture
-* Principles of Programming: SOLID, DRY, KISS, YAGNI 
-* Algorithms and Data Structures
-* Programming Languages: JavaScript, TypeScript
-* Front-End: 
-  * React, Next.js, Redux
-  * Vue, Nuxt, Vuex
-* Back-End: 
-  * Node.js, Express, Nest.js
-* Mobile: 
-  * React Native
-  * React Navigation
-  * Reanimated
-  * NativeBase
-  * Async Storage
-* UI Libraries: 
-  * Material UI
-  * Bootstrap
-  * Tailwind
-* Data Visualization: 
-  * Three.js
-  * D3
-  * chart.js
-* Web Technologies: 
-  * HTML5
-  * CSS3
-  * WebRTC
-* API Development: 
-  * RESTful, Axios
-  * GraphQL, Apollo
-* Databases: 
-  * MySQL, PostgreSQL
-  * MongoDB, Elastic Search, Redis
-  * Firebase, Supabase, Realm
-* Message Queues: 
-  * Apache Kafka
-  * RabbitMQ
-* Build Tools: 
-  * Webpack
-  * Vite
-* Testing Libraries:
-  * React Testing Library, Jest
-  * Cypress
-* Containerization: 
-  * Docker, Docker Compose
-* Version Control: 
-  * Git
-* Payment Integration: 
-  * Stripe
-* Cloud Services: 
-  * AWS, Lambda, S3, EC2
-* Agile Methodologies: 
-  * Scrum 
-  * Kanban
-
-### Experience:
-
-[//]: # (**MCM, USA — Software Engineer**)
-
-[//]: # ()
-[//]: # (*December 2023 - Current*)
-
-[//]: # ()
-[//]: # (---)
-
-**Digital Aware, Russia — CTO**
-
-*September 2019 - December 2023*
-
-* Established and led development teams, orchestrating their efforts towards achieving project objectives.
-* Effectively built and nurtured teams tailored to different projects, ensuring a harmonious working environment and fostering collaboration.
-* Coordinated and facilitated communication between cross-functional teams to align strategies and objectives.
-* Designed and implemented robust frontend architectures that formed the foundation for successful applications.
-* Conducted thorough code reviews, ensuring code quality, consistency, and adherence to best practices.
-* Spearheaded the development of decentralized frontend applications based on the NEAR protocol, contributing to the advancement of blockchain technology.
-* Leveraged my mobile development skills in **React Native** to create the META1 blockchain wallet for iOS and Android platforms, a pivotal project that bridged the world of blockchain and mobile technology.
-* Creation of a web wallet utilizing **React** and **Redux**
-* Backend development for wallets, incorporating **Node.js**, **Express.js**, **MySQL**, **ElasticSearch**
-* Integration of frontend and backend applications with the **BitShares blockchain**
+# Alexander Ufimtsev
+**Senior Full Stack Developer**  
+📍 Phuket, Thailand, willing to relocate & travel  
+📞 +7 906 197‑70‑35 (Telegram verified)  
+📧 fimak@bk.ru  
+🔗 [Telegram: @aufimtsev](https://t.me/aufimtsev)  
+_Last updated: June 20, 2025_
 
 ---
 
-**24Slides, Denmark — Lead Frontend Engineer**
+## About Me
+Full-stack developer with over 15 years of experience building web and mobile applications, crafting system architectures, working with DevOps, managing blockchain products, and leading teams. Skilled at developing scalable platforms from scratch, integrating external services, and delivering UX-driven interfaces.
 
-*April 2018 - August 2019*
+Currently building a cloud router management platform using NestJS, React, PostgreSQL, and Docker. Previously developed crypto wallets, a blockchain explorer, and 3D/AR editors.
 
-* Spearheaded the development of the 24Slides CRM system using **JavaScript**, **ES6**, **Babel**, **Webpack**, **React**, **Redux**, **PHP**, **Laravel**, **MySQL**, and more.
+⚡ Currently diving into Solana ecosystem: learning Rust, Anchor, building dApp prototypes, and exploring DeFi mechanics.  
+Excited about HFT bots, order books, arbitrage, and Web3 infrastructure.  
+🧠 Following AGI, AI agents, and open-source LLM infrastructure—interested in autonomous systems and next-gen products.
 
----
-
-**SberBank-Technologies, Russia — Lead Frontend Engineer**
-
-*October 2015 - March 2018*
-
-* Developed frontends for SberBank and its subsidiary products using **JavaScript**, **ES6**, **Babel**, **Webpack**, **React**, **Redux**, **Node.js**, and more.
+**Seeking a role at the intersection of blockchain, AI, and high-load distributed systems.**
 
 ---
 
-**Freelance, Worldwide — Independent Fullstack Developer**
+## Work Experience (13 years 4 months)
 
-*May 2014 - October 2015*
+### **Cloud Routers** (Estonia, cloud-routers.com)
+🗓 March 2024 – Present (1 year 4 months)  
+**Full Stack Developer**  
+Developing a platform to manage physical & virtual routers—underpinning proxy and VPN services. The system builds customizable traffic routes, manages network load, and scales private/public proxy networks. Potential use cases include AI agents, CDN, Web3, and distributed systems. Working toward launching an internet traffic marketplace based on this engine.
 
-* Executed a wide range of projects, including **Yii2 framework**, REST APIs using **Node.js** and **Express**.
+**Tech Stack**
+- Frontend: React, Redux Toolkit, TypeScript
+- Backend: NestJS, PostgreSQL
+- API: REST with role-based access, external integration
+- DevOps: Docker, CI/CD
 
----
+**Key Contributions**
+- Built UI to manage routers, traffic distribution, user accounts, tunnels, and projects
+- Designed a scalable backend API handling high load, auth, rate limits, monitoring
+- Engineered IP address management: rotation, reconnect, reboot; tunnel support (OpenVPN, Shadowsocks, SOCKS5)
+- Implemented team collaboration tools: roles, invites, resource sharing
+- Integrated geolocation, traffic/temperature metrics, uptime, and firmware stats
 
-**ISS Art, Omsk Russia — Fullstack Web Developer**
-
-*November 2013 - May 2014*
-
-* Contributed to various projects using **Symfony2 framework**.
-
----
-
-**IA Globus, Omsk Russia — Regular PHP Developer**
-
-*September 2011 - September 2013*
-
-* Developed a social dating portal using **Yii framework**.
-* Contributed to various projects using **Drupal**.
-
----
-
-**Aconcept, Omsk Russia — Junior PHP Developer**
-
-*September 2010 - July 2011*
-
-* Contributed to various projects using **Yii framework**.
+This startup experience sharpened my skills at the crossroads of networks, hardware, and cloud—building products from the ground up under resource-constrained, uncertain conditions.
 
 ---
 
-### Additional Information:
+### **Digital Aware** (Omsk, digitalaware.dev)
+🗓 December 2023 – March 2024 (4 months)  
+**Technical Director & Project Manager (Part-time)**  
+Led technical planning and delivery of a conference-room booking/AR customization platform in the hotel industry.
 
-    My ultimate goal is to cultivate long-term partnerships, ensuring that I consistently provide exceptional outcomes. 
-    Beyond technical proficiency, my soft skills play a crucial role in driving successful projects, fostering collaboration, and achieving exceptional results. 
-    I look forward to the opportunity to apply my experience and skills in a dynamic software engineering role.
+**Responsibilities & Results**
+- Recruited & led dev team for end-to-end project delivery
+- Defined system architecture and tech stack within budget/time constraints
+- Managed project: planning, scheduling, stakeholder communication, risk
+- Enabled investment and secured partnerships with top Spanish hotels
+- Built dev processes: CI/CD, validation phases, feature prioritization, AR/3D support
 
-**Thank you for considering my profile.** I am eager to discuss how my skills and experience can contribute to your team's
-success. Feel free to contact me via the provided contact information. 🤘
+**Project Highlights**
+- 3D room editor with Three.js for furniture & equipment placement
+- AR preview of final configuration in real-world space
+- Connected to hotel systems and logistics
+- Ensured digital layout matched real-world setup on event day
 
-### Message me to:
-* Telegram: [@aufimtsev](https://t.me/aufimtsev)
-* Email: [fimak@bk.ru](mailto:fimak@bk.ru)
-* LinkedIn: [Aleksandr Ufimtsev](https://www.linkedin.com/in/aleksandr-ufimtsev-166a7a58/)
+High stress led me to pivot back to a more balanced startup environment.
+
+---
+
+### **Meta1 Coin Trust** (USA, meta1.io)
+🗓 March 2022 – December 2023 (1 year 10 months)  
+**Full Stack Developer**  
+Contributed to Meta1, a blockchain & gold-backed stablecoin ecosystem based on a BitShares fork.
+
+**Blockchain Explorer**
+- Technologies: React, TypeScript, Node.js, Express
+- Indexed blockchain data into Elasticsearch; implemented real-time search, filtering, graphs, pagination
+
+**Mobile Wallet & Exchange (iOS/Android)**
+- Built in React Native; published to App Store & Google Play
+- Direct blockchain integration (no third-party exchanges)
+- Features: multi-currency storage, P2P exchange, transaction history, authorization, secure UX
+- Optimized storage, caching, real-time WebSocket connectivity
+
+This project deepened my mobile development, app release management, and low-level blockchain integration skills.
+
+---
+
+### **EPAM Systems** (Russia, Moscow)
+🗓 July 2020 – March 2022 (1 year 9 months)  
+**Frontend Developer**  
+Returned to development after management role, applying engineering expertise to business- and user-focused problems.
+
+**ibеt.com** (casino platform)
+- Integrated game providers: NetEnt, Play’n GO, Pragmatic Play, Evolution, Microgaming, Red Tiger
+- Worked with provider APIs, UX adaptation, and security compliance
+
+**tvh.com** (corporate e-commerce site)
+- Stack: React, Redux, TypeScript, Storybook, Drupal CMS, micro-frontend monorepo
+- Built a component library/design system, catalog features, filters, localization, API integration
+- Implemented CI/CD, code review, unit and visual testing
+
+---
+
+### **Digital Aware** (Omsk)
+🗓 Sep 2019 – Jul 2020 (11 months)  
+**Project Manager**  
+Led cross-functional teams, implemented Agile processes (Jira, Notion), prioritized features, and improved transparency. Gained soft skills in stakeholder alignment, conflict mediation, and strategic thinking.
+
+---
+
+### **24slides** (Denmark)
+🗓 Feb 2018 – Sep 2019 (1 year 8 months)  
+**Senior Frontend Developer**  
+Developed a CRM web app: JavaScript, React, Redux, Webpack, PHP (Laravel), MySQL.
+
+---
+
+### **SberTech** (Omsk)
+🗓 Oct 2015 – Feb 2018 (2 years 5 months)  
+**Lead Engineer**  
+Built web front-end and e-service systems: JS (ES6), React, Redux, Node.js, Webpack.
+
+---
+
+### **ISS Art** (Omsk)
+🗓 Nov 2013 – May 2014 (7 months)  
+**PHP Developer** (Zend, Symfony2)
+
+---
+
+### **IA Globus** (Omsk)
+🗓 Sep 2011 – Sep 2013 (2 years 1 month)  
+**PHP Developer** (Yii, Drupal, MySQL). Developed a dating site and multiple Drupal-based projects.
+
+---
+
+### **Agency of Conceptual Solutions** (Omsk)
+🗓 Sep 2010 – Jul 2011 (11 months)  
+**Junior PHP Developer**  
+Gained early experience building outsourced web apps with Apache, PHP, Yii, jQuery, and communicating with foreign clients.
+
+---
+
+## Skills & Tools
+
+**Languages & Frameworks**  
+JavaScript · TypeScript · React · Redux · Next.js · Node.js · Express.js · NestJS · GraphQL · REST · Rust · Anchor
+
+**Databases & Storage**  
+PostgreSQL · MongoDB · MySQL · Firebase · Elasticsearch
+
+**Mobile & DevOps**  
+React Native · iOS/Android · Xcode · Gradle · CocoaPods · Docker · CI/CD
+
+**Management & Methods**  
+Git · Agile (Jira/Notion) · Team Leadership · Project Management · Unit Testing
+
+**Other**  
+AI agents · dApp · DeFi · Solana · HFT · VPN/Proxy systems · AR/3D · System Architecture
+
+---
+
+## Education
+**Omsk State Technical University** — B.Sc. in Computing Systems & Networks  
+_2012_
+
+---
+
+## Languages
+- **Russian** (Native)
+- **English** (C1 - Advanced)
+
+---
+
+## Certifications
+- **OWASP TOP 10** (2017, Luxoft Security)
+
+---
+
+## Additional Info
+- Driving licence: Category B
+- Owns a personal car
+- Citizenship: Russia
+- Work permit: Russia
+- Remote/full‑time availability
+
+---
+
