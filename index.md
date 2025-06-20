@@ -1,9 +1,10 @@
-# Alexander Ufimtsev
-**Senior Full Stack Developer**  
-📍 Phuket, Thailand, willing to relocate & travel  
-📞 +7 906 197‑70‑35 (Telegram verified)  
-📧 fimak@bk.ru  
-🔗 [Telegram: @aufimtsev](https://t.me/aufimtsev)  
+# Aleksander Ufimtsev
+**Senior Full Stack Developer | Solution Architect | Team Lead**  
+📍 Location: Remote / Willing to Relocate (Currently in Phuket, Thailand)  
+📞 Telegram: [@aufimtsev](https://t.me/aufimtsev)  
+✉️ Email: fimak@bk.ru  
+🔗 LinkedIn: [Aleksandr Ufimtsev](https://linkedin.com/in/aufimtsev)  
+🌐 GitHub: [github.com/aufimtsev](https://github.com/fimak)  
 _Last updated: June 20, 2025_
 
 ---
@@ -148,7 +149,7 @@ Gained early experience building outsourced web apps with Apache, PHP, Yii, jQue
 JavaScript · TypeScript · React · Redux · Next.js · Node.js · Express.js · NestJS · GraphQL · REST · Rust · Anchor
 
 **Databases & Storage**  
-PostgreSQL · MongoDB · MySQL · Firebase · Elasticsearch
+PostgreSQL · MongoDB · MySQL · Firebase · Elasticsearch · Redis
 
 **Mobile & DevOps**  
 React Native · iOS/Android · Xcode · Gradle · CocoaPods · Docker · CI/CD
@@ -179,10 +180,6 @@ _2012_
 ---
 
 ## Additional Info
-- Driving licence: Category B
-- Owns a personal car
-- Citizenship: Russia
-- Work permit: Russia
 - Remote/full‑time availability
 
 ---
