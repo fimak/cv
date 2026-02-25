@@ -5,14 +5,14 @@
 ✉️ Email: fimak@bk.ru  
 🔗 LinkedIn: [Aleksandr Ufimtsev](https://linkedin.com/in/aufimtsev)  
 🌐 GitHub: [github.com/aufimtsev](https://github.com/fimak)  
-_Last updated: June 20, 2025_
+_Last updated: February 25, 2026_
 
 ---
 
 ## About Me
-Full-stack developer with over 15 years of experience building web and mobile applications, crafting system architectures, working with DevOps, managing blockchain products, and leading teams. Skilled at developing scalable platforms from scratch, integrating external services, and delivering UX-driven interfaces.
+Full-stack developer with over 15 years of experience building web and mobile applications, crafting system architectures, working with DevOps, managing blockchain products, and leading teams. Skilled at developing scalable platforms from scratch, integrating external services, delivering UX-driven interfaces, and shipping immersive WebGL companions for real-time 3D products.
 
-Currently building a cloud router management platform using NestJS, React, PostgreSQL, and Docker. Previously developed crypto wallets, a blockchain explorer, and 3D/AR editors.
+Currently building WebGL commerce experiences and live-event APIs at VLGE using NestJS, React, PostgreSQL, and Docker. Previously developed crypto wallets, a blockchain explorer, 3D/AR editors, and the Cloud Routers marketplace powering global proxy/VPN traffic routes.
 
 ⚡ Currently diving into Solana ecosystem: learning Rust, Anchor, building dApp prototypes, and exploring DeFi mechanics.  
 Excited about HFT bots, order books, arbitrage, and Web3 infrastructure.  
@@ -22,10 +22,26 @@ Excited about HFT bots, order books, arbitrage, and Web3 infrastructure.
 
 ---
 
-## Work Experience (13 years 4 months)
+## Work Experience (15 years 5 months)
+
+### **VLGE** (Remote, vlge.com)
+🗓 September 2025 – Present (6 months)  
+**Senior Software Engineer**  
+Building VLGE's browser-based companion products for its Unity-powered WebGL worlds platform—covering creator tools, consumer experiences, and the operational backbone that monetizes immersive drops for brands.
+
+**Tech Stack**
+- Backend: TypeScript, NestJS, TypeORM, PostgreSQL, Redis, AWS (ECS, RDS, S3), AWS IVS, AWS SDK, Mixpanel
+- Frontend: TypeScript, Next.js, Radix, shadcn/ui, Zustand, React Query, Tailwind CSS, Axios, Stripe, Sentry, Zod
+
+**Key Contributions**
+- Developed the WebGL client that syncs Unity game state with browser UI, enabling avatar customization, spatial commerce, and social events without native installs
+- Designed APIs for gameplay services, personal accounts, the branded marketplace, analytics dashboard, and partner integrations—focused on low-latency interactions and secure entitlements
+- Automated live event operations: IVS stream orchestration, telemetry ingestion, fraud/rate controls, and Mixpanel/Sentry observability for creator launches
+- Built monetization flows (Stripe, promos, loot drops) alongside content management dashboards so business teams can launch experiences independently
+- Collaborated across Unity, design, and data teams to enforce quality bars, code standards, and release cadences for a distributed org spanning multiple time zones
 
 ### **Cloud Routers** (Estonia, cloud-routers.com)
-🗓 March 2024 – Present (1 year 4 months)  
+🗓 March 2024 – September 2025 (1 year 7 months)  
 **Full Stack Developer**  
 Developing a platform to manage physical & virtual routers—underpinning proxy and VPN services. The system builds customizable traffic routes, manages network load, and scales private/public proxy networks. Potential use cases include AI agents, CDN, Web3, and distributed systems. Working toward launching an internet traffic marketplace based on this engine.
 
@@ -146,7 +162,7 @@ Gained early experience building outsourced web apps with Apache, PHP, Yii, jQue
 ## Skills & Tools
 
 **Languages & Frameworks**  
-JavaScript · TypeScript · React · Redux · Next.js · Node.js · Express.js · NestJS · GraphQL · REST · Rust · Anchor
+JavaScript · TypeScript · React · Redux · Next.js · Node.js · Express.js · NestJS · GraphQL · REST · WebGL · Unity API integrations · Rust · Anchor
 
 **Databases & Storage**  
 PostgreSQL · MongoDB · MySQL · Firebase · Elasticsearch · Redis
@@ -158,7 +174,7 @@ React Native · iOS/Android · Xcode · Gradle · CocoaPods · Docker · CI/CD
 Git · Agile (Jira/Notion) · Team Leadership · Project Management · Unit Testing
 
 **Other**  
-AI agents · dApp · DeFi · Solana · HFT · VPN/Proxy systems · AR/3D · System Architecture
+AI agents · dApp · DeFi · Solana · HFT · VPN/Proxy systems · AR/3D · WebGL commerce · Mixpanel/Sentry observability · System Architecture
 
 ---
 
@@ -183,4 +199,3 @@ _2012_
 - Remote/full‑time availability
 
 ---
-
